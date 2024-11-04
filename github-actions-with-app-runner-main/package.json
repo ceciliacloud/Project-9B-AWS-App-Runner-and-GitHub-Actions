@@ -1,0 +1,22 @@
+{
+  "name": "github-actions-with-app-runner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceciliacloud/github-actions-with-app-runner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceciliacloud/github-actions-with-app-runner/issues"
+  },
+  "homepage": "https://github.com/ceciliacloud/github-actions-with-app-runner#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
